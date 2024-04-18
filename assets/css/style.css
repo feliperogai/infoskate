@@ -53,5 +53,20 @@ a{
     font-size: 20px;
     color: white
 }
+.teste{
+    background-color: rgb(0, 123, 255);
+    color: white;
+    padding: 10px 20px;
+    border-radius: .25rem;
+    border: 0;
+    pad: .5rem
+    cursor: pointer; /* Altera o cursor ao passar */
+    transition: background-color 0.3s; /* Transição suave */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.teste:hover{
+    background-color: rgb(0, 86, 179);
+
+}
 
 
